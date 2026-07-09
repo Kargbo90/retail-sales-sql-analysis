@@ -30,7 +30,6 @@ The dataset contains sample sales transaction records with the following fields:
 
 The dataset was created for learning and portfolio purposes.
 
-SQL SKILLS DEMONSTRATED 
 ## SQL Skills Demonstrated
 
 Throughout this project, the following SQL concepts were applied:
@@ -64,4 +63,33 @@ The analysis answered several business questions, including:
 - Which products matched specific search patterns?
 - What are the top-performing sales transactions?
 - Which cities recorded specific sales activities?
+
+## Key Findings
+The analysis revealed several important insights:
+
+- Cooking Oil 1L generated the highest total revenue.
+- Sugar 1kg recorded the highest number of units sold.
+- Most sales transactions involved quantities between 15 and 25 units.
+- Freetown recorded multiple sales transactions, including the largest order from that city.
+- SQL queries helped identify sales trends, top-performing products, and customer purchasing patterns.
+
+## Business Recommendations
+
+Based on the analysis, the following recommendations are suggested:
+
+- Increase inventory levels for Sugar 1kg due to its high sales volume.
+- Continue promoting Cooking Oil 1L since it contributes the highest revenue.
+- Monitor medium-sized orders (15–25 units) to maintain adequate stock levels.
+- Use SQL reporting regularly to support inventory and sales decision-making.
+
+## About Me
+
+I am an aspiring Data Analyst from Sierra Leone, currently building practical skills in:
+
+- Microsoft Excel
+- SQL
+- Power Query
+- Power BI
+
+This project is part of my journey to build a professional data analytics portfolio by solving real-world business problems with data.
 
