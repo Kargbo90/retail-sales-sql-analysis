@@ -98,8 +98,8 @@ This project is part of my journey to build a professional data analytics portfo
 Thank you for visiting this project.
 
 You can connect with me through:
-
-- 💼 LinkedIn: https://www.linkedin.com/public-profile/settings/
+https://www.linkedin.com/in/colegbay-maraka-kargbo-174101292
+- 💼 LinkedIn: 
 - 📧 Email: cmkargbo90@gmail.com 
 - 📘 Facebook: https://www.facebook.com/profile.php?id=61586425378319
 - 💬 WhatsApp Business: SmartDataSL 
