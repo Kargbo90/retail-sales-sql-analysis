@@ -104,4 +104,5 @@ You can connect with me through:
 - 📘 Facebook: https://www.facebook.com/profile.php?id=61586425378319
 - 💬 WhatsApp Business: SmartDataSL 
 
+https:/wa.me/23280172584
 I am continuously building my data analytics portfolio and welcome opportunities to learn, collaborate, and contribute to real-world data projects.
