@@ -90,6 +90,18 @@ I am an aspiring Data Analyst from Sierra Leone, currently building practical sk
 - SQL
 - Power Query
 - Power BI
-
 This project is part of my journey to build a professional data analytics portfolio by solving real-world business problems with data.
 
+
+## Contact
+
+Thank you for visiting this project.
+
+You can connect with me through:
+
+- 💼 LinkedIn: https://www.linkedin.com/public-profile/settings/
+- 📧 Email: cmkargbo90@gmail.com 
+- 📘 Facebook: https://www.facebook.com/profile.php?id=61586425378319
+- 💬 WhatsApp Business: SmartDataSL 
+
+I am continuously building my data analytics portfolio and welcome opportunities to learn, collaborate, and contribute to real-world data projects.
